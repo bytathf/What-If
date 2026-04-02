@@ -39,16 +39,15 @@ AI 以"那个时代的你"为视角推演，关键人物以建档的性格、口
 ## 📁 项目结构
 
 ```
-parallel-lives/
+What-If/
 ├── README.md                         # 项目说明
 ├── LICENSE                           # MIT 开源许可证
 ├── .gitignore                        # Git 忽略规则
-├── PRD_平行人生.md                    # 产品需求文档（v0.1）
-├── docs/
-│   ├── idea.md                       # 核心创意构思
-│   └── inspiration/
-│       └── fragments.md              # 灵感碎片（持续累积）
-└── ...                               # 代码目录（开发中）
+└── docs/                             # 所有文档
+    ├── PRD.md                        # 产品需求文档（v0.1）
+    ├── idea.md                       # 核心创意构思
+    └── inspiration/
+        └── fragments.md              # 灵感碎片（持续累积）
 ```
 
 ## 🗺️ 开发路线图
@@ -60,7 +59,7 @@ parallel-lives/
 
 ## 🚀 快速开始
 
-> 项目处于规划阶段，欢迎阅读 [PRD_平行人生.md](./PRD_平行人生.md) 了解完整产品设计。
+> 项目处于规划阶段，欢迎阅读 [docs/PRD.md](./docs/PRD.md) 了解完整产品设计。
 
 ## 🤝 参与贡献
 
